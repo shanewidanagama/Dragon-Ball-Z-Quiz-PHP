@@ -1,0 +1,90 @@
+/*
+Page name:Question - CSS
+Description: Provides general formatting such as background color, spacing,
+and font choice for quiz.php, highscores.php, feedback.php, responsebreakdown.php,
+and enterusername.php.
+*/
+
+/*sets font style, size, background color, and default text color */
+:root {
+  font-family: "Verdana", sans-serif;
+  font-size: 2em;
+  background-color: plum;
+  background-image: radial-gradient(white, plum);
+  color:indigo;
+}
+
+/*makes correct answers in responsebreakdown.php appear green*/
+.correct {color: green;}
+
+/*centers the content of the webpage*/
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width:15em;
+}
+
+/*displays headers in purple*/
+h1 {
+  color:rebeccapurple;
+}
+
+
+/*sets text size, font, text color and margins of submit buttons*/
+.button {
+  font-size: 1em;
+  font-family: "Verdana", sans-serif;
+  color:indigo;
+  margin: 1em;
+}
+
+/*removes bullets from list items and, spaces them out*/
+li {
+  list-style: none;
+  margin: 0.1em;
+}
+
+/*displays's feedback to user's answers in darkorange*/
+.feedback {
+  color: darkorange;
+}
+
+/*displays's custom message based on score in  bold, orange,increases its size,
+adds margins*/
+.endmessage {
+  color: orange;
+  font-size: 1.5em;
+  margin: 1em;
+  font-weight: bold;
+}
+
+/*removes underline from hyperlinks, and makes text darkorange*/
+a {
+  text-decoration: none;
+  color: darkorange;
+}
+/*displays hyperlinks in gold when hovered over*/
+a:hover {
+  color: gold;
+}
+
+/*display's user's score in large text*/
+#score {
+  font-size: 1.5em;
+}
+
+/*display's title of highscores page in darkorange*/
+.highscoretitle {
+  color: darkorange;
+}
+
+/*italiscizes highscores*/
+.highscores {
+  font-style: italic;
+}
+
+/*italiscizes questions, and adds margins above each*/
+.question {
+  font-style: italic;
+  margin-top: 1em;
+}
