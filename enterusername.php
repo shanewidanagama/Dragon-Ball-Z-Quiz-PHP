@@ -1,5 +1,5 @@
 <!--
-Page name: Question 2 - Dragon Ball Z Quiz Login
+Page name: Dragon Ball Z Quiz Login
 Description: Asks user to enter a username, and declares session variables for
 the question number, current score, user's answers, and feedback.
 -->
