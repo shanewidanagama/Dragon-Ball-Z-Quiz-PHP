@@ -1,6 +1,6 @@
 <?php
 /*
-Page name: Question 2 - library.php
+Page name: library.php
 Description: defines connectDB to connect to PHPmyadmin
 Note Taken from class lab 6.
 */
