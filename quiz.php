@@ -1,5 +1,5 @@
 <!--
-Page name: Question 2 - Dragon Ball Z Quiz
+Page name: Dragon Ball Z Quiz
 Description: Conducts DBZ themed quiz. It also records whether the user
 entered the correct answer, as well as the actual answer if not.
 -->
