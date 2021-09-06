@@ -1,5 +1,5 @@
 <!--
-Page name: Question 2 - Dragon Ball Z Feedback Page
+Page name: Dragon Ball Z Feedback Page
 Description: Lists user's score, gives a custom message based on it, and whether
 their answers were correct. If incorrect, it lists the correct answer. Also provides
 links to highscore board, and response breakdown page.
