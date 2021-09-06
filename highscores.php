@@ -1,5 +1,5 @@
 <!--
-Page name: Question 2 - Dragon Ball Z Response Highscores Page
+Page name: Dragon Ball Z Response Highscores Page
 Description: Displays top 10 scores of users, and their usernames.
 -->
 <?php
