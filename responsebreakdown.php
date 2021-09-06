@@ -1,5 +1,5 @@
 <!--
-Page name: Question 2 - Dragon Ball Z Response Breakdown Page
+Page name: Dragon Ball Z Response Breakdown Page
 Description: Displays how often each answer has been selected.
 -->
 
